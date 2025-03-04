@@ -63,9 +63,4 @@ This project builds a **classification model** to predict the result of football
 
 This project is open-source and available for educational purposes.
 
----
-
-### 📞 Contact
-
-For questions or contributions, feel free to open an issue.
 
